@@ -43,7 +43,7 @@ if (num > 7 || num < 1)
 //------------------------------------------
 /* * 
  * 2. wrtie a program that prints how many days are in a month
- * (30,31,28) based on the users input 9 anumber between 1 and 12)
+ * (30,31,28) based on the users input a number between 1 and 12)
  * if user enters a number greater than 12 or less than 1 
  * deisplay invalid input 
  * */
